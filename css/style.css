@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Poppins:wght@400;500;700&family=Roboto&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Poppins:wght@400;500;700&family=Roboto:wght@400;500&family=Ubuntu:wght@300&display=swap');
+header{
+	background-color: #F0FFF0; 
+}
+body{
+	font-family: poppins,sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000 ;
+}
+.C-nav{}
+.logo{}
+.menu{}
+.menu ul li a{
+	padding: 0 25px !important;
+	color:#000000;
+}
+.menu ul li a:hover{
+	color: #FD511A;
+}
+.btn-cm{
+	font-family: Roboto,sans-serif;
+	color: white;
+			border-radius: 33px;
+}
+.btn-sign{
+	margin-left: 20px;
+	padding: 12px 28px;
+}
+.btn-cm:hover{
+	background-color: #FD511A !important; 
+}
+.btn-cm:active{
+	background-color: #FD511A;  
+}
+.banner{
+	background-color: #F0FFF0;
+	padding-bottom: 65px;
+}
+.b-text{}
+.b-p1{
+	color: #FD511A;
+}
+.b-h1{
+	font-size: 48px;
+	font-weight: 700;
+	color: #000000;
+	line-height: 70px;
+}
+.b-p2{
+	line-height: 36px;
+}
+.btn-link{
+	width: 155px;
+	height:45px;
+}
+.b-img{}
+.b-img img{}
+.b-h1 span{
+	color: #21B573;
+}
